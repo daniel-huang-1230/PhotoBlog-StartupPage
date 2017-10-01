@@ -11,7 +11,7 @@ My first responsive blog-ish html creation. The goal is to experiment with the *
 
 # 2.Startup Landing Page
 
-Use Bootstrap to create a decent-looking, responsive landing page for a fictional application (Purrfect Match). Icons are from [Font Awesome](http://fontawesome.io/).
+Use **Bootstrap** to create a decent-looking, responsive landing page for a fictional application (Purrfect Match). Icons are from [Font Awesome](http://fontawesome.io/).
 
 # Screenshot
 <img width="1435" alt="2017-09-30 07 07 10 pm" src="https://user-images.githubusercontent.com/19476654/31051048-e3958ad2-a612-11e7-97ab-1bedf6bc3430.png">
